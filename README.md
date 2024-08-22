@@ -22,7 +22,7 @@ This is a simple command-line Student Management System implemented in Python. I
 
 1. Clone the Repository:
     ```bash
-    git clone https://github.com/yourusername/student-management-system.git
+    git clone https://github.com/chelu305/student-management-system.git
     ```
 2. Navigate to the Project Directory:
     ```bash
